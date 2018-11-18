@@ -120,12 +120,12 @@ class MainActivity : AppCompatActivity() {
                         finish()
                     } else {
                         AlertDialog.Builder(this@MainActivity)
-                            .setItems(arrayOf(getString(R.string.createevent), getString(R.string.callnumber)), { dialog, which ->
+                            .setItems(arrayOf(getString(R.string.createevent), getString(R.string.callnumber))) { dialog, which ->
                                 when (which) {
                                     0 -> onCreateEvent(selectedCall)
                                     else -> onCall(selectedCall)
                                 }
-                            })
+                            }
                             .show()
                     }
                 }
