@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallLogPicker</string>
+    <string name="nolastcall">No last call</string>
+    <string name="minutes">minutes</string>
+    <string name="maintitle">Call Log</string>
+    <string name="cannotaccesscalllog">Cannot access your call log.</string>
+    <string name="settings">Settings</string>
+    <string name="showcurrentcall">Show current call</string>
+    <string name="showcurrentcalldesc">If there is an active call this call is displayed, too. It requires special permissions.</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="privacypolicytext">This app allows you to select entries from your call log and either call them or send the data back to the calling app.
+        It does not have the Internet permission and does not send your data anywhere else.
+    </string>
+    <string name="about">About Call Log Picker</string>
+    <string name="nocalendarapp">No calendar app found.</string>
+    <string name="notelephoneapp">No telephone app found.</string>
+    <string name="createevent">Create Event</string>
+    <string name="callnumber">Call Number</string>
+</resources>

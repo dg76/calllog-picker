@@ -3,7 +3,7 @@ This is an Android app to let the user pick an entry from his call log.
 
 When it is started directly you can tap on an entry to either
  
-1. create an event from it 
+1. create an event from it (using one of your installed calendar apps)
 2. or to call that number.
 
 When it is started by another app using a 

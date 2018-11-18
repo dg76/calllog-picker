@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CallLogPicker</string>
+    <string name="nolastcall">Keine Anrufe</string>
+    <string name="minutes">Minuten</string>
+    <string name="maintitle">Anrufliste</string>
+    <string name="cannotaccesscalllog">Auf Ihre Anrufliste kann nicht zugegriffen werden.</string>
+    <string name="settings">Einstellungen</string>
+    <string name="showcurrentcall">Aktuellen Anruf anzeigen</string>
+    <string name="showcurrentcalldesc">Wenn es einen laufenden Anruf gibt, wird dieser auch angezeigt. Dafür wird eine zusätzliche Berechtigung benötigt.</string>
+    <string name="privacypolicy">Datenschutzerklärung</string>
+    <string name="privacypolicytext">Mit dieser App können Sie Einträge aus Ihrer Anrufliste auswählen und entweder anrufen oder die Daten an die aufrufende App zurücksenden. Es verfügt nicht über die "Internet" Berechtigung und sendet Ihre Daten sonst nirgendwo hin.</string>
+    <string name="about">Über Call Log Picker</string>
+    <string name="nocalendarapp">Keine Kalender App gefunden.</string>
+    <string name="notelephoneapp">Keine Telefon App gefunden.</string>
+    <string name="createevent">Event erstellen</string>
+    <string name="callnumber">Kontakt anrufen</string>
+</resources>

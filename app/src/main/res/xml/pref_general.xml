@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+            android:key="showcurrentcall"
+            android:title="@string/showcurrentcall"
+            android:summary="@string/showcurrentcalldesc"
+            android:defaultValue="false"/>
+
+</PreferenceScreen>
