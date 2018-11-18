@@ -1,5 +1,5 @@
 # calllog-picker
-This is an Android app to let users pick entries from their call log to create events from them.
+This is an Android app to let users pick entries from their call log to create events.
 
 [Download Calllog-Picker](https://github.com/dg76/calllog-picker/releases/download/v1.0/calllog-picker.apk)
 
