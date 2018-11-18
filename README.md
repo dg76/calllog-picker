@@ -22,6 +22,4 @@ This is a very basic app. The same functionality could be included in all phone 
 I haven't found any that supports the general ACTION_PICK request and I also did not find a way to search the store
 for apps that support a certain Intent.
 
-<p>
-<a href="https://github.com/dg76/calllog-picker/releases/download/v1.0/calllog-picker.apk" style="background-color: #4285F4; padding: 7px; padding-left: 12px; padding-right: 12px; color: white; border-radius: 5px; text-decoration: none; font-family: sans-serif; box-shadow: 1px 1px 3px gray;">Download Calllog-Picker</a>
-</p>
+[Download Calllog-Picker](https://github.com/dg76/calllog-picker/releases/download/v1.0/calllog-picker.apk)
