@@ -6,7 +6,11 @@ When it is started directly you can tap on an entry to either
 1. create an event from it 
 2. or to call that number.
 
-When it is started by another app using a `startActivityForResult(new Intent(Intent.ACTION_PICK, CallLog.CONTENT_URI), REQUEST_ID)` call, then it returns the entry that the user has selected. It returns the extras
+When it is started by another app using a 
+
+```startActivityForResult(new Intent(Intent.ACTION_PICK, CallLog.CONTENT_URI), REQUEST_ID)```
+
+call, then it returns the entry that the user has selected. It returns the extras
 
 - name - the name of the contact
 - number - the phone number
