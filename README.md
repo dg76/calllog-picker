@@ -17,3 +17,4 @@ When it is started by another app using a `startActivityForResult(new Intent(Int
 This is a very basic app. The same functionality could be included in all phone and call log apps but unfortunately
 I haven't found any that supports the general ACTION_PICK request and I also did not find a way to search the store
 for apps that support a certain Intent.
+
